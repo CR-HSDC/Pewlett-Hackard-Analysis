@@ -14,7 +14,7 @@ The results of this analysis are summarized in in *Figure 1*.
 **_Figure 1_:** Retiring Titles
 
  * **Total Retiring Employees Count:**
-  	* Per *Figure 1*  A total of 72,458 employees will be retiring from Pewlett Hackward.
+  	* Per *Figure 1*  A total of 72,458 employees will be retiring from Pewlett Hackard.
   
   * **Highest Retiring Title by Count:**
   	* Per *Figure 1*  The greatest group of retirees will consist of Senior Engineers (25,916)
@@ -30,7 +30,7 @@ The results of this analysis are summarized in in *Figure 1*.
 
 1. A total of 72,458 employees will be retiring from Pewlett Hackard.
 
-2. 1,549 employees are elgible for the Pewlet Hackarad Mentoship program.
+2. 1,549 employees are elgible for the Pewlet Hackard Mentoship program.
 
 
 ![Figure 2](https://github.com/CR-HSDC/Pewlett-Hackard-Analysis/blob/main/figures/figure2.png)
